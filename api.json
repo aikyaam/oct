@@ -1,1 +1,240 @@
 
+{
+  "sections": [
+    {
+      "id": "editors_picks",
+      "title": "Editor's Picks",
+      "subtitle": "Handpicked favorites for today",
+      "type": "tracks",
+      "layout": "shelf",
+      "items": [
+        {
+          "id": "4NRXx6U8ABQ",
+          "title": "Blinding Lights",
+          "artist": "The Weeknd",
+          "album": "After Hours",
+          "duration": 200000,
+          "artworkUrl": "https://i.ytimg.com/vi/4NRXx6U8ABQ/hqdefault.jpg",
+          "verified": true
+        },
+        {
+          "id": "34Na4j8AVgA",
+          "title": "Starboy",
+          "artist": "The Weeknd ft. Daft Punk",
+          "album": "Starboy",
+          "duration": 230000,
+          "artworkUrl": "https://i.ytimg.com/vi/34Na4j8AVgA/hqdefault.jpg",
+          "verified": true
+        },
+        {
+          "id": "JGwWNGJdvx8",
+          "title": "Shape of You",
+          "artist": "Ed Sheeran",
+          "album": "Divide",
+          "duration": 233000,
+          "artworkUrl": "https://i.ytimg.com/vi/JGwWNGJdvx8/hqdefault.jpg",
+          "verified": true
+        },
+        {
+          "id": "zABLecsR5UE",
+          "title": "Someone You Loved",
+          "artist": "Lewis Capaldi",
+          "album": "Divinely Uninspired",
+          "duration": 182000,
+          "artworkUrl": "https://i.ytimg.com/vi/zABLecsR5UE/hqdefault.jpg",
+          "verified": true
+        },
+        {
+          "id": "mock_sample_golden_hour",
+          "title": "Golden Hour (Sample Mock)",
+          "artist": "JVKE",
+          "album": "This Is What Feels Like",
+          "duration": 210000,
+          "artworkUrl": "https://images.unsplash.com/photo-1518609878373-06d740f60d8b?w=500",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "hindi_indie",
+      "title": "Hindi Indie",
+      "subtitle": "Soulful melodies and indie anthems",
+      "type": "tracks",
+      "layout": "shelf",
+      "items": [
+        {
+          "id": "sFMRqxCexDk",
+          "title": "Choo Lo",
+          "artist": "The Local Train",
+          "album": "Aalas Ka Pedh",
+          "duration": 234000,
+          "artworkUrl": "https://i.ytimg.com/vi/sFMRqxCexDk/hqdefault.jpg",
+          "verified": true
+        },
+        {
+          "id": "gvh_72rZqA0",
+          "title": "Husn",
+          "artist": "Anuv Jain",
+          "album": "Husn",
+          "duration": 218000,
+          "artworkUrl": "https://i.ytimg.com/vi/gvh_72rZqA0/hqdefault.jpg",
+          "verified": true
+        },
+        {
+          "id": "8PnmkL_1Z8Q",
+          "title": "Kasoor",
+          "artist": "Prateek Kuhad",
+          "album": "Kasoor",
+          "duration": 197000,
+          "artworkUrl": "https://i.ytimg.com/vi/8PnmkL_1Z8Q/hqdefault.jpg",
+          "verified": true
+        },
+        {
+          "id": "BTgTlhqkKbg",
+          "title": "Baarishein",
+          "artist": "Anuv Jain",
+          "album": "Baarishein",
+          "duration": 207000,
+          "artworkUrl": "https://i.ytimg.com/vi/BTgTlhqkKbg/hqdefault.jpg",
+          "verified": true
+        },
+        {
+          "id": "mock_sample_waqt_ki_baatein",
+          "title": "Waqt Ki Baatein (Sample Mock)",
+          "artist": "Dream Note",
+          "album": "Memories",
+          "duration": 245000,
+          "artworkUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=500",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "late_night_vibes",
+      "title": "Late Night Vibes",
+      "subtitle": "Atmospheric mixes for late hours",
+      "type": "playlists",
+      "layout": "shelf",
+      "items": [
+        {
+          "id": "RDCLAK5uy_kfdTXNFKiClDT4g9fQn3v50U1m30u95PU",
+          "title": "Late Night Lofi & Chill",
+          "artist": "October Curated",
+          "itemCount": 50,
+          "artworkUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=500",
+          "url": "https://www.youtube.com/playlist?list=RDCLAK5uy_kfdTXNFKiClDT4g9fQn3v50U1m30u95PU",
+          "verified": true
+        },
+        {
+          "id": "mock_playlist_midnight_ambient",
+          "title": "Midnight Ambient Sessions (Sample Mock)",
+          "artist": "October Studio",
+          "itemCount": 28,
+          "artworkUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=500",
+          "url": "https://www.youtube.com/playlist?list=mock_playlist_midnight_ambient",
+          "verified": false
+        },
+        {
+          "id": "mock_playlist_deep_focus",
+          "title": "Deep Focus & Beats (Sample Mock)",
+          "artist": "Lo-Fi Lounge",
+          "itemCount": 42,
+          "artworkUrl": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=500",
+          "url": "https://www.youtube.com/playlist?list=mock_playlist_deep_focus",
+          "verified": false
+        },
+        {
+          "id": "mock_playlist_nightfall_drift",
+          "title": "Nightfall Acoustic Drift (Sample Mock)",
+          "artist": "Soundscape Records",
+          "itemCount": 35,
+          "artworkUrl": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=500",
+          "url": "https://www.youtube.com/playlist?list=mock_playlist_nightfall_drift",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "acoustic_sessions",
+      "title": "Acoustic Sessions",
+      "subtitle": "Unplugged and raw studio recordings",
+      "type": "tracks",
+      "layout": "shelf",
+      "items": [
+        {
+          "id": "RBumgq5yVrA",
+          "title": "Let Her Go",
+          "artist": "Passenger",
+          "album": "All the Little Lights",
+          "duration": 254000,
+          "artworkUrl": "https://i.ytimg.com/vi/RBumgq5yVrA/hqdefault.jpg",
+          "verified": true
+        },
+        {
+          "id": "mock_sample_slow_dancing",
+          "title": "Slow Dancing in a Burning Room (Sample Mock)",
+          "artist": "John Mayer",
+          "album": "Continuum Acoustic",
+          "duration": 240000,
+          "artworkUrl": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=500",
+          "verified": false
+        },
+        {
+          "id": "mock_sample_fast_car",
+          "title": "Fast Car (Sample Mock)",
+          "artist": "Tracy Chapman",
+          "album": "Tracy Chapman",
+          "duration": 290000,
+          "artworkUrl": "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?w=500",
+          "verified": false
+        },
+        {
+          "id": "mock_sample_a_team",
+          "title": "The A Team (Sample Mock)",
+          "artist": "Ed Sheeran",
+          "album": "+",
+          "duration": 258000,
+          "artworkUrl": "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?w=500",
+          "verified": false
+        }
+      ]
+    },
+    {
+      "id": "recently_added",
+      "title": "Recently Added",
+      "subtitle": "Fresh drops and latest releases",
+      "type": "albums",
+      "layout": "shelf",
+      "items": [
+        {
+          "id": "mock_album_echoes_in_dark",
+          "title": "Echoes in the Dark (Sample Mock)",
+          "artist": "The Velvet Hours",
+          "artworkUrl": "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?w=500",
+          "verified": false
+        },
+        {
+          "id": "mock_album_sunlight_shadows",
+          "title": "Sunlight & Shadows (Sample Mock)",
+          "artist": "Northern Horizon",
+          "artworkUrl": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=500",
+          "verified": false
+        },
+        {
+          "id": "mock_album_aalas_ka_pedh",
+          "title": "Aalas Ka Pedh (Sample Mock)",
+          "artist": "The Local Train",
+          "artworkUrl": "https://images.unsplash.com/photo-1487180144351-b8472da7d491?w=500",
+          "verified": false
+        },
+        {
+          "id": "mock_album_pk_live",
+          "title": "Prateek Kuhad Live (Sample Mock)",
+          "artist": "Prateek Kuhad",
+          "artworkUrl": "https://images.unsplash.com/photo-1518609878373-06d740f60d8b?w=500",
+          "verified": false
+        }
+      ]
+    }
+  ]
+}
