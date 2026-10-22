@@ -1,240 +1,760 @@
-
 {
-  "sections": [
-    {
-      "id": "editors_picks",
-      "title": "Editor's Picks",
-      "subtitle": "Handpicked favorites for today",
-      "type": "tracks",
-      "layout": "shelf",
-      "items": [
+    "sections": [
         {
-          "id": "4NRXx6U8ABQ",
-          "title": "Blinding Lights",
-          "artist": "The Weeknd",
-          "album": "After Hours",
-          "duration": 200000,
-          "artworkUrl": "https://i.ytimg.com/vi/4NRXx6U8ABQ/hqdefault.jpg",
-          "verified": true
+            "id": "plbqq8qdthowi",
+            "title": "Editor's Choice",
+            "subtitle": "From editor",
+            "type": "tracks",
+            "layout": "shelf",
+            "items": [
+                {
+                    "id": "4eZurhi-J4s",
+                    "title": "Gairon Sang Raat",
+                    "artist": "MYNK",
+                    "album": "Gairon Sang Raat",
+                    "duration": 225000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/f-JORNskTRFNsiBiCVzDllCDVtTBJSt2WmqA90OF8Wt0mLPk5gEOehKY_-H5R58AEraRAJEyq4scxywr=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "gSpcln4RVwc",
+                    "title": "Tera Yu Jaana",
+                    "artist": "badkrazy",
+                    "album": "",
+                    "duration": 167000,
+                    "artworkUrl": "https://i.ytimg.com/vi/gSpcln4RVwc/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3n1LNnZJmMTrJLsVXshYrTXEeJJaw",
+                    "verified": true
+                },
+                {
+                    "id": "J24TiAbOKsY",
+                    "title": "Ye Ishq hai - Dynaxty | Prod By Momin (Offical Lyric Video)",
+                    "artist": "Dynaxty",
+                    "album": "",
+                    "duration": 231000,
+                    "artworkUrl": "https://i.ytimg.com/vi/J24TiAbOKsY/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3lSuHdjY7RVIONF7TBCPuIPzjbm7g",
+                    "verified": true
+                },
+                {
+                    "id": "SZyVOCLJTkk",
+                    "title": "Phir Na Aana",
+                    "artist": "Ashwani Gupta, Hrishi Giridhar",
+                    "album": "",
+                    "duration": 270000,
+                    "artworkUrl": "https://i.ytimg.com/vi/SZyVOCLJTkk/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3nxXo-VK6Jv0a6tlCLNu5kCqJF7Kw",
+                    "verified": true
+                },
+                {
+                    "id": "49YkgfSg1ms",
+                    "title": "Sitaara",
+                    "artist": "Mohapatra Brothers",
+                    "album": "",
+                    "duration": 201000,
+                    "artworkUrl": "https://i.ytimg.com/vi/49YkgfSg1ms/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3kP8WN6COgss8TlfT3JMUpAUQLMFA",
+                    "verified": true
+                },
+                {
+                    "id": "iPWIzNJwilI",
+                    "title": "Doorie ~ @mynksings",
+                    "artist": "MYNK",
+                    "album": "",
+                    "duration": 255000,
+                    "artworkUrl": "https://i.ytimg.com/vi/iPWIzNJwilI/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3nrMqOsrqXED3z-xz3BFnuslAO0IQ",
+                    "verified": true
+                },
+                {
+                    "id": "7534l5jcIQw",
+                    "title": "baat hadd se",
+                    "artist": "Tanay Patre",
+                    "album": "",
+                    "duration": 230000,
+                    "artworkUrl": "https://i.ytimg.com/vi/7534l5jcIQw/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3m-aqXZRlfrWJ_WYE-PCTR70MK1Dw",
+                    "verified": true
+                },
+                {
+                    "id": "Oqjeyqep8eI",
+                    "title": "Ek Ummeed",
+                    "artist": "MYNK",
+                    "album": "",
+                    "duration": 275000,
+                    "artworkUrl": "https://i.ytimg.com/vi/Oqjeyqep8eI/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3l1DstFx2ae1iQzonM2KO4Setqr8g",
+                    "verified": true
+                },
+                {
+                    "id": "-RxAWWkHxzg",
+                    "title": "AMAN - Chandini Raatein! (Official Lyric Video)",
+                    "artist": "Aman",
+                    "album": "",
+                    "duration": 177000,
+                    "artworkUrl": "https://i.ytimg.com/vi/-RxAWWkHxzg/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3mqPhjt8dFSrgNAJm_XTmy11b6mDw",
+                    "verified": true
+                },
+                {
+                    "id": "lyEQ4I230vQ",
+                    "title": "Yuvi - Kyun [Official video]",
+                    "artist": "Yuvi",
+                    "album": "",
+                    "duration": 190000,
+                    "artworkUrl": "https://i.ytimg.com/vi/lyEQ4I230vQ/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3l_fdDf6QqpVTgZIbshVDm5dGUfaw",
+                    "verified": true
+                },
+                {
+                    "id": "AfQ4v_hmVIQ",
+                    "title": "Yuvi - Soo Jao [Official video]",
+                    "artist": "Yuvi",
+                    "album": "",
+                    "duration": 189000,
+                    "artworkUrl": "https://i.ytimg.com/vi/AfQ4v_hmVIQ/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3mA1f8-1uAodxJg22f0BTVOXsfkCw",
+                    "verified": true
+                },
+                {
+                    "id": "pPGH5IGfkqE",
+                    "title": "Barse More Naina",
+                    "artist": "KhoslaRaghu",
+                    "album": "",
+                    "duration": 221000,
+                    "artworkUrl": "https://i.ytimg.com/vi/pPGH5IGfkqE/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3l3Fk2CDtGuY3z7RNrYKFOp0dmLTQ",
+                    "verified": true
+                },
+                {
+                    "id": "OUilrtigWGg",
+                    "title": "Taare",
+                    "artist": "Farak, 10A, Saswat Balan",
+                    "album": "Deewar Ke Uss Paar",
+                    "duration": 155000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/baKj1lixAtp3ph5QCFDeq9az5ScBPG9UdZxMkvAhxp4axUo1cf5-sGBPvLybuOtqNSYFobyby9cwv_U=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "VC8-sgDCu44",
+                    "title": "52 Bahane",
+                    "artist": "MYNK",
+                    "album": "",
+                    "duration": 214000,
+                    "artworkUrl": "https://i.ytimg.com/vi/VC8-sgDCu44/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3mmS1GQDuFzytlyCqncVMHueVduUw",
+                    "verified": true
+                },
+                {
+                    "id": "VHmkWzUsyJ0",
+                    "title": "Shaamil",
+                    "artist": "Kartik Sachdeva",
+                    "album": "Shaamil",
+                    "duration": 174000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/mTCz0afSdcdYpEqhs4oSUFF4K2hS-NCu2xl9raXkUexhRsWcTDfJ5xLLh0vGWa0GO9szuA5WODF28YcR=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "qEnXk44CHVk",
+                    "title": "Kanishk Rathore - Kya Tum Bhi?",
+                    "artist": "Kanishk Rathore",
+                    "album": "",
+                    "duration": 219000,
+                    "artworkUrl": "https://i.ytimg.com/vi/qEnXk44CHVk/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3mohn2b9m8gpQ6_qKuD92bP83IQLg",
+                    "verified": true
+                },
+                {
+                    "id": "7NYEk0IDKxI",
+                    "title": "Chal Raha Hun",
+                    "artist": "Aryam",
+                    "album": "Chal Raha Hun",
+                    "duration": 218000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/nnjGfG9EekoS5ihmdOSM0xYdUmFQXw33dV1vD_mTOQRnbKw7Ft-LgbbggXenpOpo1haxuTYLySGYTYs8=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "wvN7lygwUTA",
+                    "title": "Har Woh Pal",
+                    "artist": "Aditya Satpathy",
+                    "album": "Har Woh Pal",
+                    "duration": 90000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/ri2ricXMWz-k5Arv0gdzsVA9mymGGQVxzGV85_oH7xCC8GzjE7weT0XZ8B3Qc1XfDhldURv97PNcm14=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "GFM1kALMQkY",
+                    "title": "Iss Dafa",
+                    "artist": "Divyansh Verma, xan",
+                    "album": "Iss Dafa",
+                    "duration": 211000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/ZgJEtriXnE3_e_rD2uqJm__NZOeDpNzQJlC6SULfJYo07uzDRmucI_f1G8E2jBB8XVu0GbsEV8BzISzn=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "Zn1HsLhJO9s",
+                    "title": "Yuvi - Pyaar [Official Lyric Video]",
+                    "artist": "Yuvi",
+                    "album": "",
+                    "duration": 217000,
+                    "artworkUrl": "https://i.ytimg.com/vi/Zn1HsLhJO9s/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3laR1sWN6SXPE_BnJGtI8mMCiBQBA",
+                    "verified": true
+                },
+                {
+                    "id": "5eIhSCFnvPc",
+                    "title": "Tum Aao Baitho Batein Kare",
+                    "artist": "Piyush Bhisekar",
+                    "album": "",
+                    "duration": 285000,
+                    "artworkUrl": "https://i.ytimg.com/vi/5eIhSCFnvPc/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3nJvjvip78FFfuaP3Bpa4P3he7AgA",
+                    "verified": true
+                },
+                {
+                    "id": "nEM5hJdeGss",
+                    "title": "Tera Jaana - Bitupan Payeng | Official MV",
+                    "artist": "STUDIO INDIE LIMES",
+                    "album": "",
+                    "duration": 225000,
+                    "artworkUrl": "https://i.ytimg.com/vi/nEM5hJdeGss/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3k_55g08rH1DQQUEWecLcQe7zJYhA",
+                    "verified": true
+                },
+                {
+                    "id": "I3oPGtbMyXQ",
+                    "title": "Neun La Leya",
+                    "artist": "Kaavish",
+                    "album": "Coke Studio Season 8",
+                    "duration": 437000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/UgLeG_byB1O_0W5WsleM6MwPawrehpxsNiMIlAyvL5nXa-qlAkoPyQ7vIRB42GTppJVvCRHytPzXwJAQ=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "uQReUaEaz2g",
+                    "title": "O Yaara",
+                    "artist": "Abdul Hannan, Kaavish",
+                    "album": "",
+                    "duration": 284000,
+                    "artworkUrl": "https://i.ytimg.com/vi/uQReUaEaz2g/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3m79ilVsR3RhXzod21dQJNgAPjzFg",
+                    "verified": true
+                },
+                {
+                    "id": "e1qiEA6BP48",
+                    "title": "Waqt | Ghayas Haider | Official Music Video | Rythmish | 2025",
+                    "artist": "Rythmish",
+                    "album": "",
+                    "duration": 173000,
+                    "artworkUrl": "https://i.ytimg.com/vi/e1qiEA6BP48/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3lcvkwlsbKyl5abozgrRbTx98cXbg",
+                    "verified": true
+                },
+                {
+                    "id": "WvdlMkhGIUI",
+                    "title": "Shamil Karo ~ @mynksings",
+                    "artist": "MYNK",
+                    "album": "",
+                    "duration": 200000,
+                    "artworkUrl": "https://i.ytimg.com/vi/WvdlMkhGIUI/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3kIBzQVLIphxiNNJZUy2l5XZ19k3w",
+                    "verified": true
+                },
+                {
+                    "id": "qMBIulz5BLQ",
+                    "title": "zinda nahin",
+                    "artist": "Tanay Patre",
+                    "album": "",
+                    "duration": 224000,
+                    "artworkUrl": "https://i.ytimg.com/vi/qMBIulz5BLQ/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3kDGc8jUI4EJOAmLuALx_Q-3gMEBA",
+                    "verified": true
+                },
+                {
+                    "id": "LdsptQex40o",
+                    "title": "Naa Aaoge Tum",
+                    "artist": "Aakash Aman",
+                    "album": "",
+                    "duration": 264000,
+                    "artworkUrl": "https://i.ytimg.com/vi/LdsptQex40o/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3lNha1OhBIuJ7KVJrW8tMsQ7-BJqg",
+                    "verified": true
+                },
+                {
+                    "id": "kNa0EVAoD2I",
+                    "title": "Halki Halki",
+                    "artist": "Saahel",
+                    "album": "",
+                    "duration": 179000,
+                    "artworkUrl": "https://i.ytimg.com/vi/kNa0EVAoD2I/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3kGq4vLko0b0Kiw6WsC0X7WxPMJ4w",
+                    "verified": true
+                },
+                {
+                    "id": "edsTfNfgzBk",
+                    "title": "Aakhri Sawaal ~ @mynksings",
+                    "artist": "MYNK",
+                    "album": "",
+                    "duration": 370000,
+                    "artworkUrl": "https://i.ytimg.com/vi/edsTfNfgzBk/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3nL45-ydKocydBc8lrPHrXNijE6iQ",
+                    "verified": true
+                },
+                {
+                    "id": "C1LavXVQOpo",
+                    "title": "Sehne Waale Ko",
+                    "artist": "MYNK",
+                    "album": "",
+                    "duration": 168000,
+                    "artworkUrl": "https://i.ytimg.com/vi/C1LavXVQOpo/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3lJ98dpM2I2RThaMNpn0bqWVDz5ow",
+                    "verified": true
+                },
+                {
+                    "id": "U8X0O9fcmn8",
+                    "title": "Kaise Aazmaate ~ @mynksings",
+                    "artist": "Mayank Verma",
+                    "album": "",
+                    "duration": 186000,
+                    "artworkUrl": "https://i.ytimg.com/vi/U8X0O9fcmn8/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3mU_PZAFu-OCxOy4UZ8BNZCypDuBg",
+                    "verified": true
+                },
+                {
+                    "id": "ItvaWfQuYK8",
+                    "title": "Rang ~ @mynksings",
+                    "artist": "MYNK",
+                    "album": "",
+                    "duration": 181000,
+                    "artworkUrl": "https://i.ytimg.com/vi/ItvaWfQuYK8/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3kfKcQQnQu9joUJzgl42YtCpXZ3TA",
+                    "verified": true
+                },
+                {
+                    "id": "2m6PDYbgRPc",
+                    "title": "Diary ~ @mynksings",
+                    "artist": "MYNK",
+                    "album": "",
+                    "duration": 231000,
+                    "artworkUrl": "https://i.ytimg.com/vi/2m6PDYbgRPc/hqdefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCggAEOADGC0guwJIWg&rs=AMzJL3laO35aJMoGH0ZH_VeL5ek4YkGnvg",
+                    "verified": true
+                }
+            ]
         },
         {
-          "id": "34Na4j8AVgA",
-          "title": "Starboy",
-          "artist": "The Weeknd ft. Daft Punk",
-          "album": "Starboy",
-          "duration": 230000,
-          "artworkUrl": "https://i.ytimg.com/vi/34Na4j8AVgA/hqdefault.jpg",
-          "verified": true
+            "id": "plkdhqt_spgrmppj40tceeffo_g_dmspbk",
+            "title": "Hindi New",
+            "subtitle": "Songs from latest release, i guess",
+            "type": "tracks",
+            "layout": "shelf",
+            "items": [
+                {
+                    "id": "QOpb7Pp9gFI",
+                    "title": "Aasmani",
+                    "artist": "Samad Khan",
+                    "album": "Aasmani",
+                    "duration": 200000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/W6fP1O5cLB9x1GHGgGOksMoFJynLIym7F3kYeLZBm9HvF4Q-XGlA93F91S9pSnUt9eD24TzDu9vFGy4=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "DxelcmYNNoU",
+                    "title": "Iss Tarah",
+                    "artist": "Chaar Diwaari, Sonu Nigam",
+                    "album": "Iss Tarah",
+                    "duration": 324000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/LhNFOCG_GIdtSqtG1J8ytIN8M-SiqN0lJ2aqIELkYANE324N3YRzqDbqNHT1UH1JOaN8b4J17Uokexo=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "RCfp_KsZ5CI",
+                    "title": "SAVERA",
+                    "artist": "Samad - Bharath, Samad Khan, Bharath",
+                    "album": "SAVERA",
+                    "duration": 227000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/v-zO5BzkPBgWddv6-ueQczfIhgiZG_94A7d0q-hb3kDyKFR-8GDbbE3dXYIxrqvFHrKzJsVon9wC_hxv1g=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "tKLTDZZYQCY",
+                    "title": "Tere Siva Re",
+                    "artist": "The Yellow Diary, Lisa Mishra",
+                    "album": "In Case We Forget",
+                    "duration": 198000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/k-W1cRDk1Ehzl6PAop5FKgKT5uY2zSCiQJpLwWXPRJq_fWcMMT_VFEuatMCbw2QLWjfsI9GT_SYnmEQ=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "JT-r_jAGKEY",
+                    "title": "Lay Jaa",
+                    "artist": "Keshav Tyohar",
+                    "album": "Lay Jaa",
+                    "duration": 185000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/hBWc3VJ0lRr42oefKCtEfMJVei_-6iBYUeL_S537OGhx9CelkBPZR4C7LRhfDRgzRIQM5dYHkt1wexc=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "I_lVqiI0fRo",
+                    "title": "Najariya (feat. Aanchal Tyagi)",
+                    "artist": "Abhijeet Srivastava",
+                    "album": "Fungeet",
+                    "duration": 155000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/XBRNqsEzcwEUkWCkvjXo0x-ABk4-Ls9YW81nhicsRW-cPquWiM1CfHw5D4zpwySC98uV92d2D5MRxh8=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "Ys6iPqfvmI0",
+                    "title": "Sajni",
+                    "artist": "Arijit Singh",
+                    "album": "Laapataa Ladies",
+                    "duration": 171000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/ftDdTjYV0ofe0WxH5JqtNg4eS7yF2nKYv3WbCRp_yGj8GRFTHq2eW_MF0NdmECV5IrjTL1VTSV2gTV8=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "N-dmJvU67rY",
+                    "title": "Akhiyaan",
+                    "artist": "Noor, Khan",
+                    "album": "Aarzu",
+                    "duration": 150000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/MJtpI7sC-PLaGdg5mSWC4B6eyXtD5IiPV6JCyzpQGjkyH0mIiHdZ9J6F9rjLHlRnsHOyYsot8HEINvVU=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "B7S33OKsJak",
+                    "title": "O Dil",
+                    "artist": "Utsavi Jha, Raghav Meattle",
+                    "album": "O Dil",
+                    "duration": 167000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/Nq9wn-IvWTLl091TEXVGgFGOi4vzl8YOHXvwBl-wnNzmT641fIm9wkTRUwvtLH2wkpEGikj-5WSekaw=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "9Ao7ZB5mt6Q",
+                    "title": "Lajawaab (Preview)",
+                    "artist": "Aditya Rikhari",
+                    "album": "Lajawaab",
+                    "duration": 12000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/q39z3te4WmGZcXmNPEIZ0nn-10oVVceUvtUiroNZ9FP9DAlU8-mRQ8SalmBq_M1APp9M6v8ue--sJ1k=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "4WnXf4Z_LYI",
+                    "title": "Nadi (feat. wolf.cryman)",
+                    "artist": "Hardbone boy, Teja",
+                    "album": "Nadi",
+                    "duration": 194000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/6kuoGBK3a5G9HXQBmS1VcMkyFXRSXIcysKVef2my5Fp_B4q8PsPD1EDZ6EeROuzURSFLYPp0wSziRHZN5w=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "0EqYhMYzJt4",
+                    "title": "Baat Itni Si Hai",
+                    "artist": "Twin Strings",
+                    "album": "Baat Itni Si Hai",
+                    "duration": 248000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/z909Sesz_JPLxMCFuzA9Wh74yOLqujTm2E9TkS-uqqAZcTo6OoIB8DzAQHpq5VH6Aen7EAXaL26b-DCz=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "CLbret6z8l8",
+                    "title": "The Last Letter",
+                    "artist": "Maan Panu, Mazaak",
+                    "album": "The Last Letter",
+                    "duration": 170000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/_gc_iVVd5-mthhxRxrE6XPyqS2E5hDWA3_8X6YQG7Fe8pKY2IVKjUcUmJq-yui-Ovj9mkvfyTVE3JPRj3g=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "rGwrG12Sozk",
+                    "title": "Chaand",
+                    "artist": "KARUN",
+                    "album": "Chaand",
+                    "duration": 216000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/WNkLpu-EyPsWtDqAXp0udjTuyArWsX63Yc0Tl1fU4GvpBuMZyEK12VXvocvPDO7f6R3Bj0JS9FnsvIE=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "-545jlgzEeM",
+                    "title": "Bairaagi",
+                    "artist": "SINASH",
+                    "album": "Bairaagi",
+                    "duration": 195000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/6czFZ_b-1ALt1hnxoG3gUVM7rK7CLJH3sevAgkCFX2ZWZ4c0I7tR-cgnGYhzfrqVb0i4a_nsTJ-XW1QDhg=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "mJhFO9WDPJ8",
+                    "title": "Bewafah",
+                    "artist": "Nanku",
+                    "album": "Pyar N' Stuff",
+                    "duration": 207000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/p4BsSBXFjFWXTs4xkkdsEOSnnukmCEoxVXZEj-iNtscxDfwfPWi_8-skMr5awuT8kngRgWOsrE4BLpHwxw=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "EFAJcxnFLgs",
+                    "title": "nadaaniyan",
+                    "artist": "Akshath",
+                    "album": "nadaaniyan",
+                    "duration": 172000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/7Rq3KcIR-ISnVY8p3LC3Mc_UzdZZ2Pe3QlLuG6zLXUkIrkMM1svSkTsMSmdgCwMQxs0ZP2_oGo6Xdg-q=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "zP9n2ZAS28Q",
+                    "title": "Faasle",
+                    "artist": "Aditya Rikhari",
+                    "album": "Faasle",
+                    "duration": 222000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/NOApgsKK30t2SGfjQww_4COBh-q1nIPXILcgvNo4cAwQaIh5YFaZv58eeQDsyybLNthEH_fEAfhQMH0=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "aBSyMu-FyaY",
+                    "title": "Tere To",
+                    "artist": "Third Hour, Jlok",
+                    "album": "Tere To",
+                    "duration": 173000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/bMb_1p9sZKfT3XNPTZWJ87opdY-yCbuV7zteLhCsMDek-wLzmNey-NnTy9_rmEH1WnetXj9YM49ygxv8=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "ZRmvXGBo4f0",
+                    "title": "Roshni",
+                    "artist": "Bharg, Chaar Diwaari",
+                    "album": "Roshni",
+                    "duration": 232000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/8vQsI7V9MjhlA3UjDNaUiOOuk-ufDeJSjK2XbhSeHyWtUba3xYY7KYogpH48MlHBPvJfWyzwMjLZJgQ=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "FPbtoRRXxLk",
+                    "title": "Aas",
+                    "artist": "Khwaab, Divyam Sodhi, Aaghaz",
+                    "album": "Aas",
+                    "duration": 191000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/_0bchDUWI8dHo8ML0NEvYpVq95fBzb6QDQx_ZEpjNE0DdQyKzmA_HvginiutUUZw6Rf7xbJ4yXGXITjj=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "M4bYA-xuZ6I",
+                    "title": "Kaahe Mose",
+                    "artist": "Garvit Soni, Priyansh Srivastava, Garvit-Priyansh",
+                    "album": "Kaahe Mose",
+                    "duration": 220000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/4O_d4ChbqVsUMS5lLt9jX7oYekeqIe9_a2Zy--3E1YVZ7B7LmfPxy3HpqV9gvpvm7-Zk2lJB_PnNXpHb=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "-0BT4M4jrXQ",
+                    "title": "Chaand (Tu Jo Dekh Le)",
+                    "artist": "Chaar Diwaari, Encore ABJ",
+                    "album": "Parvana",
+                    "duration": 406000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/vI7zFk0YJXPryc_3mshBXDFWPDcyzZsxp-D4x-I5ZLwAXqNJ8xEenrA96T5Fg0548jRUlpigNNbUOWB2=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "ixjjjSaix_0",
+                    "title": "Suits with me (feat. Bulbul)",
+                    "artist": "Banjaare",
+                    "album": "Suits with me",
+                    "duration": 146000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/apjI67mmlJIr4cBwphdy58PLTMEzTvTjwxDZw1WZA3DSRdB6R1kzrwjiHih2tXFOWYLTZ97wA4civsmU=w120-h120-l90-rj",
+                    "verified": true
+                }
+            ]
         },
         {
-          "id": "JGwWNGJdvx8",
-          "title": "Shape of You",
-          "artist": "Ed Sheeran",
-          "album": "Divide",
-          "duration": 233000,
-          "artworkUrl": "https://i.ytimg.com/vi/JGwWNGJdvx8/hqdefault.jpg",
-          "verified": true
-        },
-        {
-          "id": "zABLecsR5UE",
-          "title": "Someone You Loved",
-          "artist": "Lewis Capaldi",
-          "album": "Divinely Uninspired",
-          "duration": 182000,
-          "artworkUrl": "https://i.ytimg.com/vi/zABLecsR5UE/hqdefault.jpg",
-          "verified": true
-        },
-        {
-          "id": "mock_sample_golden_hour",
-          "title": "Golden Hour (Sample Mock)",
-          "artist": "JVKE",
-          "album": "This Is What Feels Like",
-          "duration": 210000,
-          "artworkUrl": "https://images.unsplash.com/photo-1518609878373-06d740f60d8b?w=500",
-          "verified": false
+            "id": "plfkgt43xxajcdnk16mrpru9kgvask4nhp",
+            "title": "Underrated Songs",
+            "subtitle": "Underrated songs from playlist",
+            "type": "tracks",
+            "layout": "shelf",
+            "items": [
+                {
+                    "id": "qBu1QxDAkxg",
+                    "title": "Idhar Zara Sa Dekh Lo",
+                    "artist": "Shikhar, Yashika Sikka",
+                    "album": "Idhar Zara Sa Dekh Lo",
+                    "duration": 172000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/dT_AgfQxTn37DRhre4ZHdR-WYDTVNlp4d29f9r2YXCUalNGgvihxdL_ZdUzmWmjlgcCU17Iaybt457UF=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "P_4-IhaQMDg",
+                    "title": "Keh Do Zara (feat. Anisha Music)",
+                    "artist": "R DYNO",
+                    "album": "Keh Do Zara",
+                    "duration": 207000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/QfTeCpgI0Gpve3VuhziitahTD8wSJMiJLnY9Z5g0LKk-s7I5sJPueX6MVpAiz1PkqrExhnQXwgGCZ2qu=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "ETT0SMk6rws",
+                    "title": "Ab Na Laut Paayenge",
+                    "artist": "Janisht Joshi, Gini, Sudan",
+                    "album": "Talkhiyaan",
+                    "duration": 183000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/JiAiBt0_eh5i_Ms0Pws8WcYRUtpJDS4ydf0ZYVgS68B58FAOvWqlNfz8EgleTX-6ZnOfDqSxT3RKKBM=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "25nUNWnDClc",
+                    "title": "Ladki Kathiyawadi",
+                    "artist": "Bhadrankar",
+                    "album": "Ladki Kathiyawadi",
+                    "duration": 210000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/n4Kx5Ag1m9dFsUjrIJIlc3o1mOnJw-cVXEnQ9dlcPAgwmgDdlyalhwAuWLVnvluxW_omxNPOinKKy-4P=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "_ofs9Kfh4AQ",
+                    "title": "Aaogi Kya Tum",
+                    "artist": "Anshul Rajpoot",
+                    "album": "Aaogi Kya Tum",
+                    "duration": 217000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/C8eg1AMj_vsjsEjwEodsoUOAA6LIRBRJEToIpIS3pa-hFHyMb-gUYM23csRo5zPC3JU4B7-nNSlFfqFSAg=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "EoWXpPkLVVI",
+                    "title": "Re More Piya",
+                    "artist": "AKS",
+                    "album": "Re More Piya",
+                    "duration": 172000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/khSHg9guEDTCiqgcTztvwgWE-dIX00IoDgjCRtONmI1KCvVGoKdylZ5M8SUHRlO8KdKFpVy38SMge3cExw=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "S00DPZjvmDI",
+                    "title": "NAINA",
+                    "artist": "Anshul Rajpoot",
+                    "album": "NAINA",
+                    "duration": 190000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/KDA39ClsT8WIV_e1pG0FdS5gC6JQt7u-OU9otDoyX4XQKW0uusMV1cSufSjzlxon4UV-iStyOkMKIn3E=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "RGY2gGafiGM",
+                    "title": "Wish You Were Here (feat. Rae & Encore ABJ)",
+                    "artist": "Frappe Ash",
+                    "album": "Bet You Know",
+                    "duration": 280000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/2AsHQquCM3RdhXJNGwZMJhqpvpgqJ7238FDD6mcg34wRT99Y0usePnjz5iNp158eXCsXJib2V8oQrAvkSA=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "lW7Cl3Vrr6o",
+                    "title": "Tu Rehti Hai",
+                    "artist": "Aditya Rikhari",
+                    "album": "Tu Rehti Hai",
+                    "duration": 167000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/34_ij9aPqm16eyGcL2j-LHycNQPRQJCXOERg_hOfahM7w6Fg_UsqC9R_PggmMiVY-auU3yrcpcePVFki3w=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "y7_BjqA7v1A",
+                    "title": "Gharr (feat. Harshal Mathur)",
+                    "artist": "MnA, Kalpit Mathur",
+                    "album": "Gharr",
+                    "duration": 177000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/iQAstBNWNlW4GhLcy_mq3MF1KSqOB_tklej8WYXobJKxAnVqNp8bRVyhpQ5UWUc4m2y0YeN4CGPv7v_rDQ=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "bg2hqxLlsvE",
+                    "title": "Sutta",
+                    "artist": "Aditya Rikhari, Ravator",
+                    "album": "Jaana",
+                    "duration": 214000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/qu_mYPSgcZ_a68-1RyF-lHuRG22oxALE7X0R25NsEuu4sP0UGMEmNiaHDA1UA0lZ6-kPtFkboYm_WMQ=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "PNZiH9Oji_8",
+                    "title": "Tum ho",
+                    "artist": "Jokhim",
+                    "album": "Tum ho",
+                    "duration": 201000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/3A4_qBZyri-dhBSHL8u1ZUekfYVIGEcKNBPy0M8hI5yB6D2L34FzN2_eC8O9NvPmVLPe8EnaurQjFKOiOQ=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "K__2ib98GkE",
+                    "title": "Dhyan Rakhakar",
+                    "artist": "R DYNO",
+                    "album": "Dhyan Rakhakar",
+                    "duration": 175000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/Hljcsfww4pTvqBjAT94FVZZwFS6m-h4Djt05HSrK4IWe4MuK8esFzriW-0hl0WpiCVe2VjV5q9l3AGoo=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "plqIksy6HEg",
+                    "title": "Ishq Jalakar - Karvaan (From \"Dhurandhar\")",
+                    "artist": "Shashwat Sachdev, Shahzad Ali, Subhadeep Das Chowdhury, Armaan Khan",
+                    "album": "Ishq Jalakar - Karvaan (From \"Dhurandhar\")",
+                    "duration": 251000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/rR1OMwUaMSUBLS_yzPNiUzgBWaxtBSys8dahPXONq8qOPZ1JQp6BcDL3WGKB9tBIlfi8wLZ0yFpOJno=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "yx-RhiOtSIE",
+                    "title": "Bayaan",
+                    "artist": "Navjot Ahuja",
+                    "album": "Bayaan",
+                    "duration": 256000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/5ZW7XPHb9j8p6pEXo0qek7pwDvu7F0pVNk8i7CJA67urT_eL__3_ADJQRKkn3qd00Rlkr_XM0hDbUuE=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "yTr_ajmS84g",
+                    "title": "Ghar",
+                    "artist": "Bharat Chauhan",
+                    "album": "Ghar",
+                    "duration": 306000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/03mQg9uIasppX8f9akhodTHJH4SafKoeeGv6Xh4B9bO33RntrMDMRYgMC8fuSTGzI-tUmHA8vTYHe9I=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "CyoUiKewD1Q",
+                    "title": "Tu Hoti Toh",
+                    "artist": "Bharat Chauhan",
+                    "album": "Tu Hoti Toh",
+                    "duration": 335000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/jT1drXjTuhvXg3UGJupKFjxYGqwUAlTGhTzA4FSj7M2pKSaYvKf6rpm2cCNXrxqmJ61n158FgXjjxD0=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "NBuwzNSrUpc",
+                    "title": "Teri Ho Na Saki",
+                    "artist": "King",
+                    "album": "Shayad Woh Sune",
+                    "duration": 232000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/kRCAAq-mYT5FjxWOfa6d4Mb9Dw8u6bj8jFB5xPHIPy8b6_E6dmBGy6DJU7t1WqQJoux6E3z7ysu1N3-L=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "QLoOZlTQpSo",
+                    "title": "You Got This",
+                    "artist": "Fotty Seven",
+                    "album": "You Got This",
+                    "duration": 247000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/pKS0vY1QUMz6eGVlMDv1p65JJdINDON2qdnlphu3Qy95lU-fczgdAwvN1H3PjR_jMRr2peQiNpSLiQLk=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "LFiSERr_nqQ",
+                    "title": "Let It Go",
+                    "artist": "Fotty Seven",
+                    "album": "Let It Go",
+                    "duration": 143000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/i1wravZrUG0EC2usED4UpdG-aghgaHmv3kekDgfTZkUlRCwH2-1x4bUeqIruSf9Bltcqao3jlp2ci32a=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "cMCVr1lFbYI",
+                    "title": "Barqat",
+                    "artist": "SATYAM, Nandan",
+                    "album": "Barqat",
+                    "duration": 147000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/MxFrxldiJ8HuVbjcjv2ilhMU597fQA6Ezxi7fKFDJg0xOkKvk3Spz3WB_7aGwBHRV3EXfmQ-T0IFBalBGw=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "5h44JXkjUjA",
+                    "title": "Kamikaze",
+                    "artist": "Nanku, Faizan",
+                    "album": "Kamikaze",
+                    "duration": 171000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/h0DaozOq_SnijNZlMqVwMFloGyCABNoz5f_bX9Vk8phSBOMA9ZuooRyO-cmeluW7E9EI1dTeEDJ7WXc=w120-h120-l90-rj",
+                    "verified": true
+                },
+                {
+                    "id": "qVjz1dmxafc",
+                    "title": "TASAWWUR",
+                    "artist": "Badkidz",
+                    "album": "TASAWWUR",
+                    "duration": 191000,
+                    "artworkUrl": "https://yt3.googleusercontent.com/gavO2qqwZmiuyBWz46BtRmnIJEQZ1miPYnBjowvUEzLeIZvTY7V8YI4MxzggRj0B2S0E8-xY-u566Bw=w120-h120-l90-rj",
+                    "verified": true
+                }
+            ]
         }
-      ]
-    },
-    {
-      "id": "hindi_indie",
-      "title": "Hindi Indie",
-      "subtitle": "Soulful melodies and indie anthems",
-      "type": "tracks",
-      "layout": "shelf",
-      "items": [
-        {
-          "id": "sFMRqxCexDk",
-          "title": "Choo Lo",
-          "artist": "The Local Train",
-          "album": "Aalas Ka Pedh",
-          "duration": 234000,
-          "artworkUrl": "https://i.ytimg.com/vi/sFMRqxCexDk/hqdefault.jpg",
-          "verified": true
-        },
-        {
-          "id": "gvh_72rZqA0",
-          "title": "Husn",
-          "artist": "Anuv Jain",
-          "album": "Husn",
-          "duration": 218000,
-          "artworkUrl": "https://i.ytimg.com/vi/gvh_72rZqA0/hqdefault.jpg",
-          "verified": true
-        },
-        {
-          "id": "8PnmkL_1Z8Q",
-          "title": "Kasoor",
-          "artist": "Prateek Kuhad",
-          "album": "Kasoor",
-          "duration": 197000,
-          "artworkUrl": "https://i.ytimg.com/vi/8PnmkL_1Z8Q/hqdefault.jpg",
-          "verified": true
-        },
-        {
-          "id": "BTgTlhqkKbg",
-          "title": "Baarishein",
-          "artist": "Anuv Jain",
-          "album": "Baarishein",
-          "duration": 207000,
-          "artworkUrl": "https://i.ytimg.com/vi/BTgTlhqkKbg/hqdefault.jpg",
-          "verified": true
-        },
-        {
-          "id": "mock_sample_waqt_ki_baatein",
-          "title": "Waqt Ki Baatein (Sample Mock)",
-          "artist": "Dream Note",
-          "album": "Memories",
-          "duration": 245000,
-          "artworkUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=500",
-          "verified": false
-        }
-      ]
-    },
-    {
-      "id": "late_night_vibes",
-      "title": "Late Night Vibes",
-      "subtitle": "Atmospheric mixes for late hours",
-      "type": "playlists",
-      "layout": "shelf",
-      "items": [
-        {
-          "id": "RDCLAK5uy_kfdTXNFKiClDT4g9fQn3v50U1m30u95PU",
-          "title": "Late Night Lofi & Chill",
-          "artist": "October Curated",
-          "itemCount": 50,
-          "artworkUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=500",
-          "url": "https://www.youtube.com/playlist?list=RDCLAK5uy_kfdTXNFKiClDT4g9fQn3v50U1m30u95PU",
-          "verified": true
-        },
-        {
-          "id": "mock_playlist_midnight_ambient",
-          "title": "Midnight Ambient Sessions (Sample Mock)",
-          "artist": "October Studio",
-          "itemCount": 28,
-          "artworkUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=500",
-          "url": "https://www.youtube.com/playlist?list=mock_playlist_midnight_ambient",
-          "verified": false
-        },
-        {
-          "id": "mock_playlist_deep_focus",
-          "title": "Deep Focus & Beats (Sample Mock)",
-          "artist": "Lo-Fi Lounge",
-          "itemCount": 42,
-          "artworkUrl": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=500",
-          "url": "https://www.youtube.com/playlist?list=mock_playlist_deep_focus",
-          "verified": false
-        },
-        {
-          "id": "mock_playlist_nightfall_drift",
-          "title": "Nightfall Acoustic Drift (Sample Mock)",
-          "artist": "Soundscape Records",
-          "itemCount": 35,
-          "artworkUrl": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=500",
-          "url": "https://www.youtube.com/playlist?list=mock_playlist_nightfall_drift",
-          "verified": false
-        }
-      ]
-    },
-    {
-      "id": "acoustic_sessions",
-      "title": "Acoustic Sessions",
-      "subtitle": "Unplugged and raw studio recordings",
-      "type": "tracks",
-      "layout": "shelf",
-      "items": [
-        {
-          "id": "RBumgq5yVrA",
-          "title": "Let Her Go",
-          "artist": "Passenger",
-          "album": "All the Little Lights",
-          "duration": 254000,
-          "artworkUrl": "https://i.ytimg.com/vi/RBumgq5yVrA/hqdefault.jpg",
-          "verified": true
-        },
-        {
-          "id": "mock_sample_slow_dancing",
-          "title": "Slow Dancing in a Burning Room (Sample Mock)",
-          "artist": "John Mayer",
-          "album": "Continuum Acoustic",
-          "duration": 240000,
-          "artworkUrl": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=500",
-          "verified": false
-        },
-        {
-          "id": "mock_sample_fast_car",
-          "title": "Fast Car (Sample Mock)",
-          "artist": "Tracy Chapman",
-          "album": "Tracy Chapman",
-          "duration": 290000,
-          "artworkUrl": "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?w=500",
-          "verified": false
-        },
-        {
-          "id": "mock_sample_a_team",
-          "title": "The A Team (Sample Mock)",
-          "artist": "Ed Sheeran",
-          "album": "+",
-          "duration": 258000,
-          "artworkUrl": "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?w=500",
-          "verified": false
-        }
-      ]
-    },
-    {
-      "id": "recently_added",
-      "title": "Recently Added",
-      "subtitle": "Fresh drops and latest releases",
-      "type": "albums",
-      "layout": "shelf",
-      "items": [
-        {
-          "id": "mock_album_echoes_in_dark",
-          "title": "Echoes in the Dark (Sample Mock)",
-          "artist": "The Velvet Hours",
-          "artworkUrl": "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?w=500",
-          "verified": false
-        },
-        {
-          "id": "mock_album_sunlight_shadows",
-          "title": "Sunlight & Shadows (Sample Mock)",
-          "artist": "Northern Horizon",
-          "artworkUrl": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=500",
-          "verified": false
-        },
-        {
-          "id": "mock_album_aalas_ka_pedh",
-          "title": "Aalas Ka Pedh (Sample Mock)",
-          "artist": "The Local Train",
-          "artworkUrl": "https://images.unsplash.com/photo-1487180144351-b8472da7d491?w=500",
-          "verified": false
-        },
-        {
-          "id": "mock_album_pk_live",
-          "title": "Prateek Kuhad Live (Sample Mock)",
-          "artist": "Prateek Kuhad",
-          "artworkUrl": "https://images.unsplash.com/photo-1518609878373-06d740f60d8b?w=500",
-          "verified": false
-        }
-      ]
-    }
-  ]
+    ]
 }
